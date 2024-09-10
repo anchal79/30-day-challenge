@@ -1,2 +1,2 @@
 # 30-day-challenge
-programming challenge 
+daily programming challenge 
